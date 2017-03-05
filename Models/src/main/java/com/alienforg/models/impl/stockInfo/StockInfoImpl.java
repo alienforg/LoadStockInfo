@@ -1,4 +1,4 @@
-package com.alienforg.models.Imp.stockInfo;
+package com.alienforg.models.impl.stockInfo;
 
 import com.alienforg.models.stockinfo.StockInfo;
 /**
