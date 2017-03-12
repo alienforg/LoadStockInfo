@@ -46,7 +46,7 @@
 				<configuration>
 					<scanIntervalSecond>10</scanIntervalSecond>
 					<webApp>
-						<contextPath>/test</contextPath>
+						<contextPath>/loadstock</contextPath>
 					</webApp>
 					<connectors>  
 						<connector implementation="org.eclipse.jetty.server.nio.SelectChannelConnector">
