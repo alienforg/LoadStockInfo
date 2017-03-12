@@ -9,7 +9,6 @@
 	<name>Load Stock Info</name>
 
 	<modules>
-		<module>services</module>
 		<module>LoadStockInfo_Wars</module>
 		<module>Models</module>
 		<module>Services</module>
